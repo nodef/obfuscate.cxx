@@ -1,0 +1,15 @@
+{
+  "name": "obfuscate.cxx",
+  "version": "1.0.0",
+  "description": "Guaranteed compile-time string literal obfuscation header-only library for C++14; Adam Yaxley (2017).",
+  "keywords": ["c++", "library", "header-only", "string", "literal", "obfuscation", "compile-time"],
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/obfuscate.cxx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/obfuscate.cxx/issues"
+  },
+  "homepage": "https://github.com/nodef/obfuscate.cxx#readme"
+}
